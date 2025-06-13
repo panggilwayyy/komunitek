@@ -4,11 +4,11 @@
 	"mailpoet_list_id": "3",
 	"subcription_widget": {
 		"enable": true,
-		"title": "Stay up to date",
-		"description": "Get notified when I publish something new, and unsubscribe at any time.",
-		"placeholder": "Enter your email address",
-		"success_message": "Thank you for subscribing. You're in!",
-		"error_message": "Something went wrong. Please try again. If the problem persists, you can contact me."
+		"title": "Dapatkan Kabar Dari Kami",
+		"description": "Kabar dari kami dijamin lebih seru daripada chat mantan, langsung aja daftar!",
+		"placeholder": "Email kamu, jangan sampe salah ketik!",
+		"success_message": "Hore! Kamu bakalan dapet info menarik. Keep calm and check email!",
+		"error_message": "Hmm... Error terjadi, coba sekali lagi ya, jangan kapok!"
 	},
 	"newsletter_section": {
 		"enable": true,
@@ -182,15 +182,15 @@
 		"title": "💭 Coba inget lagi... bukan mantan, tapi password-nya",
 		"sub_title": "Sini emailnya, kita bantu reset... walau perasaan yang dulu gak bisa di-reset.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "nggak semua error harus di-fix, kadang cukup display:none semua beres",
+			"author": "Zidan Herlangga"
 		}
 	},
 	"signUp_page": {
 		"title": "Create an account",
 		"sub_title": "Enter your email below to create your account.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
+			"text": "Waduhhhh",
 			"author": "Chis agency"
 		}
 	},
