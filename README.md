@@ -1,23 +1,33 @@
-# Faust Scaffold
+# ⚡ Komunitek Frontend
 
-This repository contains a starter scaffolding to get you up and running quickly on [WP Engine's Atlas platform](https://wpengine.com/atlas/) with a WordPress site skeleton for more advanced developers.
+Ini adalah tampilan depan (frontend) dari [Komunitek.com](https://komunitek.com) — sebuah platform komunitas digital berbasis teknologi dan kolaborasi.  
+Frontend ini dibangun menggunakan **Next.js + TypeScript + React + Faust.js**, terintegrasi penuh dengan WordPress sebagai headless CMS.
 
-## For more information
+> 💬 *"Terhubung, berbagi, dan tumbuh bersama dalam satu komunitas teknologi."*
 
-For more information on this Blueprint please check out the following sources:
+---
 
-- [WP Engine's Atlas Platform](https://wpengine.com/atlas/)
-- [Faust.js](https://faustjs.org)
-- [WPGraphQL](https://www.wpgraphql.com)
-- [Atlas Content Modeler](https://wordpress.org/plugins/atlas-content-modeler/)
-- [WP Engine's Atlas developer community](https://developers.wpengine.com)
+## 🚀 Stack Teknologi
 
-### Contributor License Agreement
+| Teknologi       | Deskripsi                                      |
+|-----------------|------------------------------------------------|
+| Next.js         | Framework React untuk SSR & SSG                |
+| TypeScript (TSX)| JavaScript modern dengan dukungan type safety  |
+| Faust.js        | Integrasi headless WordPress + GraphQL         |
+| Tailwind CSS    | Styling utility-first yang fleksibel & ringan  |
+| Vercel          | Platform hosting modern dengan CI/CD bawaan    |
 
-All external contributors to WP Engine products must have a signed Contributor License Agreement (CLA) in place before the contribution may be accepted into any WP Engine codebase.
+---
 
-1. [Submit your name and email](https://wpeng.in/cla/)
-2. 📝 Sign the CLA emailed to you
-3. 📥 Receive copy of signed CLA
+## 🌟 Fitur Unggulan
 
-❤️ Thank you for helping us fulfill our legal obligations in order to continue empowering builders through headless WordPress.
+- 🔗 **Integrasi Headless WordPress via Faust.js**
+- ⚛️ **Routing Dinamis dan SEO-Friendly dengan Next.js**
+- 🎨 **Desain modern & responsif dengan Tailwind CSS**
+- 🧠 **Konten dikelola dari WordPress (Gutenberg/ACF ready)**
+- 📰 **Blog, Artikel, Video, dan Halaman Dinamis**
+- 📈 **Optimasi performa (Lazy load, Image optimization)**
+- 🔐 **SSL & HTTPS (Gratis via Vercel)**
+
+---
+#Terima Kasih
