@@ -131,6 +131,7 @@ export default {
   'Username and password are required!': 'Nama pengguna dan kata sandi wajib diisi!',
   Username: 'Nama pengguna',
   'Email or username': 'Email atau nama pengguna',
+  'pw-placeholder' : 'Masukan Password',
   'Not a member?': 'Belum jadi anggota?',
   'Lost your password?': 'Lupa kata sandi?',
   'Reading list': 'Daftar bacaan',

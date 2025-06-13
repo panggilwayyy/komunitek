@@ -77,6 +77,7 @@ export default function Login() {
 								<Input
 									id="password"
 									type="password"
+									placeholder={T['pw-placeholder']}
 									required
 									defaultValue={IS_CHISNGHIAX_DEMO_SITE ? 'demo' : undefined}
 								/>
