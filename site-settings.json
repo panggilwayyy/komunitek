@@ -179,8 +179,8 @@
 		]
 	},
 	"resetPassword_page": {
-		"title": "💭 Coba inget lagi... bukan mantan, tapi password-nya",
-		"sub_title": "Sini emailnya, kita bantu reset... walau perasaan yang dulu gak bisa di-reset.",
+		"title": "Coba inget lagi password-nya",
+		"sub_title": "Sini emailnya, kita bantu reset... walau perasaan gak bisa di-reset.",
 		"blockquote": {
 			"text": "nggak semua error harus di-fix, kadang cukup display:none semua beres",
 			"author": "Zidan Herlangga"
@@ -190,16 +190,16 @@
 		"title": "Create an account",
 		"sub_title": "Enter your email below to create your account.",
 		"blockquote": {
-			"text": "Nggak semua error harus di-fix, kadang cukup display:none semua beres",
-			"author": "Chis agency"
+			"text": "Waduhhhh",
+			"author": "Shcyariel Wikantyoso"
 		}
 	},
 	"signIn_page": {
 		"title": "Sign in to your account",
 		"sub_title": "Enter your email below to sign in to your account.",
 		"blockquote": {
-			"text": "Nggak semua error harus di-fix, kadang cukup display:none semua beres",
-			"author": "Chis agency"
+			"text": "Mau makan, tapi ga laper. kalo ga makan laper, apasii....",
+			"author": "Wahyu Rachmatia"
 		},
 		"lost_password": {
 			"is_use_lostpassword_default_of_wp": false,
