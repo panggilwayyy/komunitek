@@ -87,7 +87,7 @@ export default function AvatarDropdown({ className = '' }: Props) {
 				href={'/submission'}
 				className="-m-3 flex items-center rounded-lg p-2 transition duration-150 ease-in-out hover:bg-neutral-100 focus:outline-none focus-visible:ring focus-visible:ring-orange-500 focus-visible:ring-opacity-50 dark:hover:bg-neutral-700"
 				onClick={(e) => {
-					if (isAuthenticated === false) {
+					if (isAuthenticated) {
 						e.preventDefault()
 						openLoginModal('/submission')
 					}
