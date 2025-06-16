@@ -23,6 +23,10 @@ const CreateBtn: FC<Props> = ({ className = 'hidden md:block ' }) => {
 	if (NC_SITE_SETTINGS['submissions-settings']?.enable === false) {
 		return null
 	}
+	// Hilangkan tombol jika belum login
+	if (!isAuthenticated) {
+		return null
+	}
 
 
 	return (
