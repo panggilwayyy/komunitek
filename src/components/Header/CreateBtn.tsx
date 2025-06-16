@@ -20,9 +20,19 @@ const CreateBtn: FC<Props> = ({ className = 'hidden md:block ' }) => {
 	const { openLoginModal } = useLoginModal()
 	const T = getTrans()
 
+	const isContributor = user?.roles?.some(
+    (role: any) => role.slug === 'contributor' || role.name === 'contributor',
+  )
+
 	if (NC_SITE_SETTINGS['submissions-settings']?.enable === false) {
 		return null
 	}
+
+	// Sembunyikan tombol kalau belum login atau bukan contributor
+	if (!isAuthenticated || !isContributor) {
+  		return null
+	}
+
 
 	return (
 		<div className={`LangDropdown ${className}`}>
