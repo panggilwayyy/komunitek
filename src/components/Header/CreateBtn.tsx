@@ -14,23 +14,14 @@ interface Props {
 }
 
 const CreateBtn: FC<Props> = ({ className = 'hidden md:block ' }) => {
-	const { isReady, isAuthenticated, user } = useSelector(
+	const { isReady, isAuthenticated } = useSelector(
 		(state: RootState) => state.viewer.authorizedUser,
 	)
 	const { openLoginModal } = useLoginModal()
 	const T = getTrans()
 
-	const isContributor = user?.roles?.some(
-    (role: any) => role.slug === 'contributor' || role.name === 'contributor',
-  )
-
 	if (NC_SITE_SETTINGS['submissions-settings']?.enable === false) {
 		return null
-	}
-
-	// Sembunyikan tombol kalau belum login atau bukan contributor
-	if (!isAuthenticated || !isContributor) {
-  		return null
 	}
 
 
