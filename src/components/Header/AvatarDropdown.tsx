@@ -79,6 +79,9 @@ export default function AvatarDropdown({ className = '' }: Props) {
 	}
 
 	const renderCreatePost = () => {
+		if (!isAuthenticated) {
+			return null
+		}
 		return (
 			<Link
 				href={'/submission'}
