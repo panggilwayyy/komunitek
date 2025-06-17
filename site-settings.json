@@ -32,10 +32,10 @@
 		"sub_title": "Let's explore the most popular categories"
 	},
 	"site_info": {
-		"site_title": "Ncmaz Nextjs Blog",
-		"site_description": "Ncmaz Nextjs Blog headless WordPress",
-		"site_keywords": "Ncmaz Nextjs Blog",
-		"site_author": "ChisNghiax",
+		"site_title": "Komunitek",
+		"site_description": "",
+		"site_keywords": "Komunitek Blog",
+		"site_author": "",
 		"site_email": "Your Email",
 		"site_phone": "Your Phone",
 		"site_address": "Your Address",
@@ -46,7 +46,7 @@
 		"site_url": "https://www.yoursite.com",
 		"site_logo": "/logo.png",
 		"site_logo_light": "/logo-light.png",
-		"site_favicon": "/favicon-16x16.png"
+		"site_favicon": "../public/favicon/favicon-16x16.png"
 	},
 	"site_socials": [
 		{
