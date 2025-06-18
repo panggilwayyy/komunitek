@@ -33,7 +33,7 @@
 	},
 	"site_info": {
 		"site_title": "Komunitek",
-		"site_description": "",
+		"site_description": "Seputar Informasi Teknologi dan lainnya",
 		"site_keywords": "Komunitek Blog",
 		"site_author": "Komunitek",
 		"site_email": "myidkomunitek@gmail.com",
@@ -64,7 +64,7 @@
 		{
 			"name": "Youtube",
 			"url": "https://www.github.com/yourmediumpage",
-			"icon": "/images/socials/Youtube.svg",
+			"icon": "/images/socials/youtube.svg",
 			"description": "Follow Kami di Youtube"
 		},
 		{
@@ -91,7 +91,7 @@
 	"search_page": {
 		"recommended_searches": {
 			"enable": true,
-			"title": "Recommended searches",
+			"title": "Rekomendasi Pencarian",
 			"items": [
 				{
 					"title": "Teknologi",
