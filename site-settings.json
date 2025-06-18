@@ -35,37 +35,37 @@
 		"site_title": "Komunitek",
 		"site_description": "",
 		"site_keywords": "Komunitek Blog",
-		"site_author": "",
-		"site_email": "Your Email",
+		"site_author": "Komunitek",
+		"site_email": "myidkomunitek@gmail.com",
 		"site_phone": "Your Phone",
 		"site_address": "Your Address",
-		"site_city": "Your City",
+		"site_city": "Kota Bekasi",
 		"site_state": "Your State",
 		"site_zip": "Your Zip",
 		"site_country": "Your Country",
 		"site_url": "https://www.yoursite.com",
 		"site_logo": "/logo.png",
 		"site_logo_light": "/logo-light.png",
-		"site_favicon": "../public/favicons/favicon-16x16.png"
+		"site_favicon": "/favicon.ico"
 	},
 	"site_socials": [
 		{
 			"name": "facebook",
 			"url": "https://www.facebook.com/yourfacebookpage",
 			"icon": "/images/socials/facebook.svg",
-			"description": "Follow us on Facebook"
+			"description": "Follow Kami di Facebook"
 		},
 		{
 			"name": "twitter",
 			"url": "https://twitter.com/yourtwitterpage",
 			"icon": "/images/socials/x-twitter.svg",
-			"description": "Follow us on Twitter"
+			"description": "Follow Kami di Twitter"
 		},
 		{
-			"name": "github",
+			"name": "Youtube",
 			"url": "https://www.github.com/yourmediumpage",
-			"icon": "/images/socials/github.svg",
-			"description": "Follow us on Github"
+			"icon": "/images/socials/Youtube.svg",
+			"description": "Follow Kami di Youtube"
 		},
 		{
 			"name": "tiktok",
@@ -94,16 +94,16 @@
 			"title": "Recommended searches",
 			"items": [
 				{
-					"title": "Programming",
-					"url": "/search/posts/programming"
+					"title": "Teknologi",
+					"url": "/search/posts/Teknologi"
 				},
 				{
-					"title": "Design",
-					"url": "/search/posts/design"
+					"title": "Anime",
+					"url": "/search/posts/Anime"
 				},
 				{
-					"title": "Technology",
-					"url": "/search/posts/technology"
+					"title": "Event",
+					"url": "/search/posts/event"
 				}
 			]
 		},
@@ -180,23 +180,23 @@
 	},
 	"resetPassword_page": {
 		"title": "Coba inget lagi password-nya",
-		"sub_title": "Sini emailnya, kita bantu reset... walau perasaan gak bisa di-reset.",
+		"sub_title": "kita bantu reset... walau perasaan gak bisa di-reset.",
 		"blockquote": {
 			"text": "nggak semua error harus di-fix, kadang cukup display:none semua beres",
 			"author": "Zidan Herlangga"
 		}
 	},
 	"signUp_page": {
-		"title": "Create an account",
-		"sub_title": "Enter your email below to create your account.",
+		"title": "Langkah pertama menuju sesuatu",
+		"sub_title": "Masukkan emailmu — karena semua hal besar dimulai dari satu klik.",
 		"blockquote": {
 			"text": "Waduhhhh",
 			"author": "Shcyariel Wikantyoso"
 		}
 	},
 	"signIn_page": {
-		"title": "Sign in to your account",
-		"sub_title": "Enter your email below to sign in to your account.",
+		"title": "Welcome back, semangat lagi yuk!",
+		"sub_title": "Masukin email kamu — satu klik kecil buat lanjut ke hal besar.",
 		"blockquote": {
 			"text": "Mau makan, tapi ga laper. kalo ga makan laper, apasii....",
 			"author": "Wahyu Rachmatia"
@@ -264,8 +264,8 @@
 		"title": "Privacy Policy"
 	},
 	"empty_state": {
-		"title": "No results found.",
-		"description": "We couldn’t find any results. Try for something else."
+		"title": "Kosong, kayak harapan buat balikan.",
+		"description": "Coba cari yang lain, Siapa tau lebih baik"
 	},
 	"discussion_settings": {
 		"enable": true,
