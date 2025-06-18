@@ -26,7 +26,7 @@ module.exports = {
 		'/wordpress-sitemap.xml', // Keep this to exclude the WordPress sitemap itself
 	],
 	robotsTxtOptions: {
-		additionalSitemaps: [`${SITE_URL}/wordpress-sitemap.xml`],
+		additionalSitemaps: [],//`${SITE_URL}/wordpress-sitemap.xml`,
 	},
 	transform: async (config, path) => {
 		// Get the current date and time in the format m/d/Y g:i a
