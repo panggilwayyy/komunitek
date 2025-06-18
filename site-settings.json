@@ -19,9 +19,9 @@
 	},
 	"top_banner": {
 		"enable": true,
-		"description": "-50% Intro price for the next 72 hours only!.",
+		"description": "Komunitek.com – Solusi digital mudah dan terpercaya untuk bisnismu!",
 		"end_link": {
-			"url": "https://themeforest.net/item/ncmaz-nextjs-headless-wordpress-blog-magazine/47815656",
+			"url": "#",
 			"text": "Lihat Disini →",
 			"new_tab": true
 		}
