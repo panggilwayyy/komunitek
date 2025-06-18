@@ -62,7 +62,7 @@ export default class Document extends NextDocument {
 					<link rel="manifest" href={v('/favicons/site.webmanifest')} />
 					<link
 						rel="mask-icon"
-						href={v('/favicons/safari-pinned-tab.svg')}
+						href={v('#')}
 						color="#38bdf8"
 					/>
 					<link rel="shortcut icon" href={v('/favicons/favicon.ico')} />
