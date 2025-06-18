@@ -31,7 +31,7 @@ module.exports = {
 	transform: async (config, path) => {
 		// Get the current date and time in the format m/d/Y g:i a
 		const currentDate = new Date()
-		const formattedDate = currentDate.toISOString()
+		const formattedDate = currentDate.toISOString().split('.')[0] + 'Z';
 		//`${currentDate.getMonth() + 1}/${currentDate.getDate()}/${currentDate.getFullYear()} ${currentDate.getHours() % 12 || 12}:${currentDate.getMinutes().toString().padStart(2, '0')} ${currentDate.getHours() >= 12 ? 'PM' : 'AM'}`
 
 		// Define paths to assign low priority
