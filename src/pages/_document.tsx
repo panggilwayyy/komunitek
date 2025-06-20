@@ -24,6 +24,7 @@ export default class Document extends NextDocument {
 				dir={process.env.NEXT_PUBLIC_SITE_DIRECTION}
 			>
 				<Head>
+					<meta name="google-site-verification" content="XH1q-GgU00u_WbSZmDBkieGFdaAXm9vh7Mx364yHz6o" />
 					<link
 						href={`${SITE_URL}/api/feeds/feed.json`}
 						rel="alternate"
